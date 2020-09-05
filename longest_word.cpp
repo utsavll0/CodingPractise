@@ -2,7 +2,7 @@
 using namespace std;
 
 
-//Not completed
+//Not completed yet
 string LongestWord(string sen) {
   int i = 0;
   int end = 0;
